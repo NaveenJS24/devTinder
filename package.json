@@ -1,0 +1,17 @@
+{
+  "name": "devtinderbe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Naveen JS",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "devtinderbe": "file:",
+    "express": "^4.21.2"
+  }
+}
